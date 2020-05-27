@@ -14,4 +14,6 @@
 
 # <code>npm test</code>
 
-<p>İnteraktif izleme modunda test çalıştırır. daha fazla bilgi için <a href="https://create-react-app.dev/docs/running-tests/">React test </a> çalıştırma bölümüne bakabilirsiniz.</p>
+<p>İnteraktif izleme modunda test çalıştırır. Daha fazla bilgi için <a href="https://create-react-app.dev/docs/running-tests/">React test </a> çalıştırma bölümüne bakabilirsiniz.</p>
+
+<p>Projenin anlatıldğı adrese <a href="https://tr.reactjs.org/tutorial/tutorial.html">buradan</a> ulaşabilirsiniz.</p>
